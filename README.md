@@ -12,6 +12,5 @@ I would like to make an unordered list:
 
 - Item 2 
 
-- And so on...
-
+- And so on....
 
