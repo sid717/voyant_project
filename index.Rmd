@@ -19,5 +19,12 @@ Hello world?????
 bruh
 <iframe style='width: 850px; height: 705px;' src='https://voyant-tools.org/tool/Trends/?query=mr&query=mrs&query=said&query=miss&query=think&corpus=austen' data-external = '1'></iframe>
 
+# Correlation
+
+<iframe style='width: 637px; height: 465px;' src='https://voyant-tools.org/tool/Trends/?query=jesus*%20%7C%20christ*%20%7C%20heaven*%20&query=hell*%20%7C%20satan*&view=corpusterms&corpus=c8f49d5bfead7457a65341f1531c0a3f' data-external = '1'></iframe>
+
+# Mandala
+
+<iframe style='width: 1080px; height: 553px;' src='https://voyant-tools.org/tool/Mandala/?query=christ*&query=church*&query=religion*&query=satan*&query=hell*&query=jesus*&corpus=715ad2c45ca409a1155c019f3a0c7595' data-external = '1'></iframe>
 
 ![Ashoka University logo](https://www.ashoka.edu.in/admin_assets/global/images/logo/logo-ashoka.png)
