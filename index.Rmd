@@ -1,0 +1,23 @@
+---
+title: "Voyant R Notebook"
+author: "Siddhant Bakshi"
+date: "9/18/2021"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Cmd+Shift+Enter*. 
+
+```{r}
+plot(cars)
+```
+
+# Introduction 
+  
+Hello world?????
+
+<iframe style='width: 850px; height: 705px;' src='https://voyant-tools.org/tool/Trends/?query=mr&query=mrs&query=said&query=miss&query=think&corpus=austen' data-external = '1'></iframe>
+
+
+![Ashoka University logo](https://www.ashoka.edu.in/admin_assets/global/images/logo/logo-ashoka.png)
