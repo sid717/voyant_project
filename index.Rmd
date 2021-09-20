@@ -15,8 +15,7 @@ plot(cars)
 
 # Introduction 
   
-Hello world?????
-bruh
+
 <iframe style='width: 850px; height: 705px;' src='https://voyant-tools.org/tool/Trends/?query=mr&query=mrs&query=said&query=miss&query=think&corpus=austen' data-external = '1'></iframe>
 
 # Correlation
@@ -26,5 +25,5 @@ bruh
 # Mandala
 
 <iframe style='width: 1080px; height: 553px;' src='https://voyant-tools.org/tool/Mandala/?query=christ*&query=church*&query=religion*&query=satan*&query=hell*&query=jesus*&corpus=715ad2c45ca409a1155c019f3a0c7595' data-external = '1'></iframe>
-
+a
 ![Ashoka University logo](https://www.ashoka.edu.in/admin_assets/global/images/logo/logo-ashoka.png)
