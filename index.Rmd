@@ -24,7 +24,7 @@ plot(cars)
 
 # Mandala
 
-<iframe style='width: 1080px; height: 553px;' src='https://voyant-tools.org/tool/Mandala/?query=christ*&query=church*&query=religion*&query=satan*&query=hell*&query=jesus*&corpus=715ad2c45ca409a1155c019f3a0c7595' data-external = '1'></iframe>
+<iframe style='width: 100%; height: 800px;' src='https://voyant-tools.org/?stopList=stop.en.taporware.txt&panels=cirrus%2Creader%2Ctrends%2Cmandala%2Ccorrelations&corpus=4bc0d6025777440300b6fabbbcb483e0' data-external = '1'></iframe>
 
 # Next 
 
@@ -32,6 +32,14 @@ plot(cars)
 
 # Next 2 
 
-<iframe style='width: 637px; height: 466px;' src='https://voyant-tools.org/tool/Trends/?query=devil*%20%7C%20satan*%20%7C%20unholy*%20%7C%20blasphem*%20%7C%20heathen%20%7C%20agnostic%20%7C%20atheis*%20%7C%20sin%20%7C%20obscene&query=christ*%20%7C%20jesus%20%7C%20pious*%20%7C%20apostle%20%7C%20religious%20%7C%20scriptural%20%7C%20divine%20%7C%20holy%20spirit%20%7C%20god%20%7C%20priest&corpus=eecadc231d71144cd0764cd0ce678d7a'></iframe>
+<iframe style='width: 637px; height: 466px;' src='https://voyant-tools.org/tool/Trends/?query=devil*%20%7C%20satan*%20%7C%20unholy*%20%7C%20blasphem*%20%7C%20heathen%20%7C%20agnostic%20%7C%20atheis*%20%7C%20sin%20%7C%20obscene&query=christ*%20%7C%20jesus%20%7C%20pious*%20%7C%20apostle%20%7C%20religious%20%7C%20scriptural%20%7C%20divine%20%7C%20holy%20spirit%20%7C%20god%20%7C%20priest&corpus=eecadc231d71144cd0764cd0ce678d7a' data-external = '1'></iframe>
+
+# Next 3 
+
+<iframe style='width: 637px; height: 466px;' src='https://voyant-tools.org/tool/Trends/?query=sin%20%7C%20sinister&query=virtu*&corpus=eecadc231d71144cd0764cd0ce678d7a' data-external = '1'></iframe>
+
+# Next 4 
+<iframe style='width: 637px; height: 466px;' src='https://voyant-tools.org/tool/Trends/?query=sloth%20%7C%20greed%20%7C%20envy*%20%7C%20lust%20%7C%20wrath%20%7C%20gluttony%20%7C%20pride&query=diligence*%20%7C%20patience%20%7C%20humility%20%7C%20charity%20%7C%20temperance%20%7C%20kind*%20%7C%20chastity&corpus=eecadc231d71144cd0764cd0ce678d7a' data-external='1'></iframe>
+
 
 ![Ashoka University logo](https://www.ashoka.edu.in/admin_assets/global/images/logo/logo-ashoka.png)
