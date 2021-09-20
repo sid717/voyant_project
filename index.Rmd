@@ -24,7 +24,7 @@ plot(cars)
 
 # Mandala
 
-<iframe style='width: 1616px; height: 715px;' src='https://voyant-tools.org/tool/Mandala/?stopList=stop.en.taporware.txt&query=evil*%7Ccurse*%7Cspirit*%7Csublime%7Cinsane*%7Cmad*%7Ccrazy*%7Cdead*%7Cdecay*%7Cdivine*%7Cblood*%7Cdeath&query=possess*%7Chaunt*%7Cbury*%7Cmurder*%7Cdestroy*%7Cstrangle*%7Cterrify*%7Ctrembl*%7Cbefall&query=labyrinth*%7Ccorpse%7Cgrave*%7Ctomb%7Ccadaver%7Cmonster*%7Ccemetary%7Cdevil*%7Cnightmare%7Cghost*%7Cgrotesque*%7Ccastle*%7Cdemon*%7Cwitch*%7Csorcerer*%7Cveil*%7Cskeleton*%7Czombie&query=dark*%7Cmist*%7Cfog*%7Clightening%7Cthunder*%7Crain*%7Cterror&query=altar*%7Csacrific*%7Cbishop%7Cchrist*%7Cfaith*%7Choly*%7Cpray*%7Cpreist%7Csacred%7Csinner%7Csinful%7Csinned%7Cworship*%7Csin%7Ccross%7Cpious%7Cpiety&view=mandala&corpus=4bc0d6025777440300b6fabbbcb483e0' data-external = '1'></iframe>
+<iframe style='width: 1200px; height: 715px;' src='https://voyant-tools.org/tool/Mandala/?stopList=stop.en.taporware.txt&query=evil*%7Ccurse*%7Cspirit*%7Csublime%7Cinsane*%7Cmad*%7Ccrazy*%7Cdead*%7Cdecay*%7Cdivine*%7Cblood*%7Cdeath&query=possess*%7Chaunt*%7Cbury*%7Cmurder*%7Cdestroy*%7Cstrangle*%7Cterrify*%7Ctrembl*%7Cbefall&query=labyrinth*%7Ccorpse%7Cgrave*%7Ctomb%7Ccadaver%7Cmonster*%7Ccemetary%7Cdevil*%7Cnightmare%7Cghost*%7Cgrotesque*%7Ccastle*%7Cdemon*%7Cwitch*%7Csorcerer*%7Cveil*%7Cskeleton*%7Czombie&query=dark*%7Cmist*%7Cfog*%7Clightening%7Cthunder*%7Crain*%7Cterror&query=altar*%7Csacrific*%7Cbishop%7Cchrist*%7Cfaith*%7Choly*%7Cpray*%7Cpreist%7Csacred%7Csinner%7Csinful%7Csinned%7Cworship*%7Csin%7Ccross%7Cpious%7Cpiety&view=mandala&corpus=4bc0d6025777440300b6fabbbcb483e0' data-external = '1'></iframe>
 
 
 # Next 
