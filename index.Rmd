@@ -25,5 +25,13 @@ plot(cars)
 # Mandala
 
 <iframe style='width: 1080px; height: 553px;' src='https://voyant-tools.org/tool/Mandala/?query=christ*&query=church*&query=religion*&query=satan*&query=hell*&query=jesus*&corpus=715ad2c45ca409a1155c019f3a0c7595' data-external = '1'></iframe>
-a
+
+# Next 
+
+<iframe style='width: 637px; height: 466px;' src='https://voyant-tools.org/tool/Trends/?query=death%20%7C%20blood%20%7C%20ghost%20%7C%20grave%20%7C%20cemetary*%20%7C%20insane%20%7C%20murder&query=devil*%20%7C%20satan*%20%7C%20unholy*%20%7C%20blasphem*%20%7C%20heathen%20%7C%20agnostic%20%7C%20atheis*%20%7C%20sin%20%7C%20obscene&query=christ*%20%7C%20jesus%20%7C%20pious*%20%7C%20apostle%20%7C%20religious%20%7C%20scriptural%20%7C%20divine%20%7C%20holy%20spirit%20%7C%20god%20%7C%20priest&corpus=eecadc231d71144cd0764cd0ce678d7a' data-external = '1'></iframe>
+
+# Next 2 
+
+<iframe style='width: 637px; height: 466px;' src='https://voyant-tools.org/tool/Trends/?query=devil*%20%7C%20satan*%20%7C%20unholy*%20%7C%20blasphem*%20%7C%20heathen%20%7C%20agnostic%20%7C%20atheis*%20%7C%20sin%20%7C%20obscene&query=christ*%20%7C%20jesus%20%7C%20pious*%20%7C%20apostle%20%7C%20religious%20%7C%20scriptural%20%7C%20divine%20%7C%20holy%20spirit%20%7C%20god%20%7C%20priest&corpus=eecadc231d71144cd0764cd0ce678d7a'></iframe>
+
 ![Ashoka University logo](https://www.ashoka.edu.in/admin_assets/global/images/logo/logo-ashoka.png)
