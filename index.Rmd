@@ -6,19 +6,19 @@ output: html_notebook
 ---
 
 
-#### Team members 
+### Team members 
 
 Harieshwar Vetri, Medini Chopra, Navdeep Singh, Siddhant Bakshi
 
-#### Hypothesis 
+### Hypothesis 
 
 English Gothic literature from the 18th and 19th century contains a substantial amount of references to Christian theology, and these references play a vital role in the ideation of the concept of horror employed by Gothic fiction.
 
-#### Corpus Description
+### Corpus Description
 
 We collected twelve novels categorized as gothic literature to constitute our corpus. Each novel was composed by a different author; the aim was to represent multiple voices of the time, and capture a multitude of ideas that came to represent the Gothic imagination. The novels were chosen at random, with the intention to avoid selection bias that could compromise the analysis. The corpus is a product of writings from the 18th and 19th century - the choice to include works from the two centuries in a corpus was made so that we could assess if a shift occurred over time in terms of how, and to what magnitude, Christian theology was embedded in English Gothic literature.
 
-#### Summary 
+### Summary 
 
 We chose Gothic literature as it was a genre we were not well acquainted with. We only had a cursory understanding of it and expected to find the usual suspects: grotesque violence, haunted castles, and people succumbing to insanity. Much to our surprise, we found mentions of god and Christianity, along with metaphorical uses of religious terminology. This led us to wonder if religious concepts existed only in the periphery, or if they were constituent of ideations of horror and terror that lay at the heart of Gothic literature. We decided to investigate this question by employing various gothic novels from the 18th and 19th centuries as our corpus. 
 
