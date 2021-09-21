@@ -22,8 +22,9 @@ We collected twelve novels categorized as gothic literature to constitute our co
 
 We chose Gothic literature as it was a genre we were not well acquainted with. We only had a cursory understanding of it and expected to find the usual suspects: grotesque violence, haunted castles, and people succumbing to insanity. Much to our surprise, we found mentions of god and Christianity, along with metaphorical uses of religious terminology. This led us to wonder if religious concepts existed only in the periphery, or if they were constituent of ideations of horror and terror that lay at the heart of Gothic literature. We decided to investigate this question by employing various gothic novels from the 18th and 19th centuries as our corpus. 
 
-# Tools 
-## Frequency comparison:
+## Tools 
+
+### Frequency comparison:
 
 When analyzing the list of terms sorted in descending order of frequency, we observed that the words ‘convent’, ‘heaven’, and ‘soul’ appeared within the first 200 terms. This provided us with the initial thrust in our research, as these words confirmed that Christian theology was indeed at play in Gothic literature. We then set out to examine the frequency and usage of terms and phrases pertaining to religion, particularly Christianity.
 
@@ -57,7 +58,7 @@ The results surprised us yet again. We found that the relative frequencies of th
 
 The cumulation of these findings proved that Christian theology, indeed, was embedded in the English Gothic literature of the 18th and 19th century. Next, we wanted to find the context in which theology was employed, and its role in the conception of horror.
 
-## Collocation/Correlation
+### Collocation/Correlation
 
 &nbsp;
 
@@ -71,7 +72,7 @@ The correlation/collocation tools are a useful choice when trying to find patter
 
 
 
-## Mandala
+### Mandala
 
 The Mandala tool was very alluring because it complemented the Frequency Comparison tool very well. The results of frequency analysis provided us with multiple avenues to explore. The presence of words related to Christian theology in the texts called for further exploration into how deep a role theology played in the realm of the Gothic. Having acquired quantitative data to substantiate the hypothesis, the team desired a visual representation of how much of a “pull” a word or a cluster of words had on all the novels, and how this compared to other words and clusters. The choice, thus, was made to explore the Mandala tool for further substantiation of the hypothesis. Mandala treats each term as a magnet, and the texts are then pulled towards each magnet depending on the term ’s relative frequency in the corpus. This gives us a visual representation of which text is related to which term(s). In addition, if a text is closer to a magnet, it implies the relative frequency of the term  is higher in the text, and vice-versa.  
 
