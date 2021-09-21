@@ -5,11 +5,15 @@ date: "9/18/2021"
 output: html_notebook
 ---
 
+<<<<<<< HEAD
 ```{r}
 plot(cars)
 ```
 
 #### Team members 
+=======
+## Team members 
+>>>>>>> 2d8dd7fa32b21c3eac2dbe8108bdcfe647b8c5aa
 
 Harieshwar Vetri, Medini Chopra, Navdeep Singh, Siddhant Bakshi
 
@@ -47,6 +51,7 @@ At this point we decided to perform a more granular analysis. We settled on the 
 The results surprised us yet again. We found that the relative frequencies of the two aforementioned clusters were not insignificant when compared to our cluster of the three most frequent Gothic terms. Thus, our hypothesis passed our test of granularity.
 
 The cumulation of these findings proved that Christian theology, indeed, was embedded in the English Gothic literature of the 18th and 19th century. Next, we wanted to find the context in which theology was employed, and its role in the conception of horror.
+<<<<<<< HEAD
 
 **Collocation/Correlation:**
 
@@ -70,6 +75,8 @@ We endeavored to uncover Christian theology embedded in the Gothic literature of
 
 
 <iframe style='width: 850px; height: 705px;' src='https://voyant-tools.org/tool/Trends/?query=mr&query=mrs&query=said&query=miss&query=think&corpus=austen' data-external = '1'></iframe>
+=======
+>>>>>>> 2d8dd7fa32b21c3eac2dbe8108bdcfe647b8c5aa
 
 # Correlation
 
