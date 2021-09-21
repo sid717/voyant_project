@@ -9,19 +9,19 @@ output: html_notebook
 plot(cars)
 ```
 
-## Team members 
+#### Team members 
 
 Harieshwar Vetri, Medini Chopra, Navdeep Singh, Siddhant Bakshi
 
-## Hypothesis 
+#### Hypothesis 
 
 English Gothic literature from the 18th and 19th century contains a substantial amount of references to Christian theology, and these references play a vital role in the ideation of the concept of horror employed by Gothic fiction.
 
-## Corpus Description
+#### Corpus Description
 
 We collected twelve novels categorized as gothic literature to constitute our corpus. Each novel was composed by a different author; the aim was to represent multiple voices of the time, and capture a multitude of ideas that came to represent the Gothic imagination. The novels were chosen at random, with the intention to avoid selection bias that could compromise the analysis. The corpus is a product of writings from the 18th and 19th century - the choice to include works from the two centuries in a corpus was made so that we could assess if a shift occurred over time in terms of how, and to what magnitude, Christian theology was embedded in English Gothic literature.
 
-## Summary 
+#### Summary 
 
 We chose Gothic literature as it was a genre we were not well acquainted with. We only had a cursory understanding of it and expected to find the usual suspects: grotesque violence, haunted castles, and people succumbing to insanity. Much to our surprise, we found mentions of god and Christianity, along with metaphorical uses of religious terminology. This led us to wonder if religious concepts existed only in the periphery, or if they were constituent of ideations of horror and terror that lay at the heart of Gothic literature. We decided to investigate this question by employing various gothic novels from the 18th and 19th centuries as our corpus. 
 
@@ -33,6 +33,41 @@ When analyzing the list of terms sorted in descending order of frequency, we obs
 We chose two pairs of words that were the most fundamental and basic concepts in Christianity: ‘virtue’ and ‘sin’, and ‘heaven’ and ‘hell’. Upon plotting the frequency graph, we found that these pairs were not only present in our entire corpus, but they also had a high frequency correlation throughout the 18th and early 19th century texts.
 
 <iframe style='width: 850px; height: 570px;' src='https://voyant-tools.org/tool/Trends/?stopList=stop.en.taporware.txt&query=virtu*%7Csin%7Csinner%7Csinned%7Csinful%7Csins&query=heaven*%7Chell*&mode=&chartType=line&view=mandala&corpus=4bc0d6025777440300b6fabbbcb483e0' data-external='1'></iframe>
+
+The positive results from this rudimentary analysis propelled us to dig deeper. We wanted to see where the frequency of these basic concepts of Christianity stood in relation to the basic terminology of Gothic literature. For this purpose, we picked the three most frequently occurring words that represented the Gothic imagination in our corpus: ‘terror’, ‘horror’, and ‘blood’.
+
+<iframe style='width: 850px; height: 570px;' src='https://voyant-tools.org/tool/Trends/?stopList=stop.en.taporware.txt&query=virtu*%7Csin%7Csinner%7Csinned%7Csinful%7Csins&query=heaven*%7Chell*&query=terror*%7Chorror*%7Cblood*&mode=&chartType=line&view=mandala&corpus=4bc0d6025777440300b6fabbbcb483e0' data-external='1'></iframe>
+
+The result was deeply satisfying. Although, at various points, the frequency of the terms of gore was an order of magnitude higher than terms of Christian theology, this was to be expected because these terms are nouns and adjectives, and are employed much more frequently to set the tone and atmosphere of the novels. However, the difference in relative frequency between the two categories was not pronounced enough to demerit our hypothesis.
+
+At this point we decided to perform a more granular analysis. We settled on the list of the seven deadly sins and seven virtues — core concepts in Christian theology. The sins encompass pride, greed, lust, wrath, envy, sloth, and gluttony. The virtues include chastity, temperance, charity, diligence, patience, kindness, and humility. The sins were combined into one cluster, and the virtues into another.
+
+<iframe style='width: 850px; height: 570px;' src='https://voyant-tools.org/tool/Trends/?stopList=stop.en.taporware.txt&query=pride*%7Cgreed*%7Clust*%7Csloth*%7Cglutton*%7Cwrath%7Cenvy%7Cenvied%7Cenvies%7Cenvious&query=chastity*%7Ctemperance*%7Ccharit*%7Cdiligen*%7Cpatience%7Ckind*%7Chumility&query=virtu*%7Csin%7Csinner%7Csinned%7Csinful%7Csins&query=heaven*%7Chell*&query=terror*%7Chorror*%7Cblood*&mode=&chartType=line&view=mandala&corpus=4bc0d6025777440300b6fabbbcb483e0' data-external='1'></iframe>
+
+The results surprised us yet again. We found that the relative frequencies of the two aforementioned clusters were not insignificant when compared to our cluster of the three most frequent Gothic terms. Thus, our hypothesis passed our test of granularity.
+
+The cumulation of these findings proved that Christian theology, indeed, was embedded in the English Gothic literature of the 18th and 19th century. Next, we wanted to find the context in which theology was employed, and its role in the conception of horror.
+
+**Collocation/Correlation:**
+
+As the frequency graphs alluded to a certain type of pattern, we decided to check if there were other tools which would confirm that it was indeed a pattern. We started with the correlation and collocation tools. The correlation tool compares the appearances of two terms and provides information on how these terms vary in appearance with each other. The collocation tool accepts a term from the user, and then displays the number of times another interesting word appears within a specified number of terms. We searched for words relating to horror, such as ‘evil’, ‘dark’ and ‘death’, as well as religious terms such as ‘god’, ‘holy’ and ‘life’.
+
+The correlation/collocation tools are a useful choice when trying to find patterns in the relations between pairs of words. However, our hypothesis was based more around the appearance and use of singular words. We did attempt to find interesting word pairs or connections, but the correlation pairs were either not intriguing enough, had a negligible correlation factor, or had an unfavorable significance factor: which is what determines if a high correlation is not just coincidental. The collocates tool, however, proved useful. Punishment is an important concept in Christianity. The Christian teachings dictate that deviating from the virtues, and committing sins, can invite the wrath of God. We decided to look for the collocates for ‘punish’, and found that ‘god’, ‘fear’, and ‘guilt’ appear most frequently. From this we reasoned that punishment, as represented in Gothic literature, could have its roots in theology. The divine punishment could, then, manifest in the form of supernatural events. A direct relationship between theology and the ideation of horror could be inferred from this finding. This argument, however, could not be substantiated using other tools.
+
+<iframe style='width: 850px; height: 570px;' src='https://voyant-tools.org/tool/CorpusCollocates/?stopList=stop.en.taporware.txt&query=punish*&corpus=4bc0d6025777440300b6fabbbcb483e0' data-external = '1'></iframe>
+
+**Mandala:**
+
+The Mandala tool was very alluring because it complemented the Frequency Comparison tool very well. The results of frequency analysis provided us with multiple avenues to explore. The presence of words related to Christian theology in the texts called for further exploration into how deep a role theology played in the realm of the Gothic. Having acquired quantitative data to substantiate the hypothesis, the team desired a visual representation of how much of a “pull” a word or a cluster of words had on all the novels, and how this compared to other words and clusters. The choice, thus, was made to explore the Mandala tool for further substantiation of the hypothesis. Mandala treats each term as a magnet, and the texts are then pulled towards each magnet depending on the term ’s relative frequency in the corpus. This gives us a visual representation of which text is related to which term(s). In addition, if a text is closer to a magnet, it implies the relative frequency of the term  is higher in the text, and vice-versa.
+
+We began by carefully curating a list of keywords that are prominent in Gothic literature. Then we divided them into 5 different categories, each of which represents a certain aspect of the novel. The first magnet (first keyword: dark) represents the atmospheric elements of the novel. Second (first keyword: possess) represents supernatural or dark acts that happen in the novel. Third (first keyword: labyrinth) groups together the nouns that contribute to the setting and supernatural characters of the novel. Fourth (first keyword: evil) serves as the collection of adjectives for the dark elements present in the work. Fifth (first keyword: altar) consists of words that bear a relationship with religious concepts, especially Christianity.
+
+In the Mandala thus created, we observe that the fourth magnet has the strongest pull. This was expected because it represents adjectives that are common to the entire corpus. Interestingly, we also see that the second and fifth magnet seem to have an equal pull. This directly supports our hypothesis by showing that the collection of verbs of the supernatural domain are present in the texts as much as terms related to theology. Furthermore, the texts that are in closest proximity to the fifth magnet are spread throughout the 18th and 19th century, indicating that no significant change occurred over the time period in how often theological concepts were incorporated into Gothic novels.
+
+**Conclusion:**
+
+We endeavored to uncover Christian theology embedded in the Gothic literature of the 18th and 19th century, and determine its role in the ideation of gothic horror. Our frequency analysis provided clear evidence that the terminology of Christian theology was present throughout the corpus. We were pleasantly surprised to find that there was more evidence than we had anticipated at the outset. However, the limitations of the collocation/correlation tool with respect to our hypothesis deprived us of some much desired sentence- and paragraph-level evidence. Nonetheless, we used output from our frequency analysis to create well-defined clusters of words that we fed to the Mandala tool. Through this tool, we were able to visually represent the evidence in support of our hypothesis. Through the combination of the 3 tools, we have been able to demonstrate the presence of theological elements of Christianity in the corpus, and the importance of Christian theology in the ideation of horror that permeates the English Gothic literature.
+
 
 <iframe style='width: 850px; height: 705px;' src='https://voyant-tools.org/tool/Trends/?query=mr&query=mrs&query=said&query=miss&query=think&corpus=austen' data-external = '1'></iframe>
 
