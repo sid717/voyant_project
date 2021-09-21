@@ -108,4 +108,4 @@ This process has left us with a much better understanding of git, and how these 
 
 
 
-![Ashoka University logo](https://www.ashoka.edu.in/admin_assets/global/images/logo/logo-ashoka.png)
+![](https://www.ashoka.edu.in/admin_assets/global/images/logo/logo-ashoka.png)
