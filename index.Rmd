@@ -83,7 +83,7 @@ While our research has yielded quite a bit of evidence to support our hypothesis
 
 The technical side of the process; importing the tools from Voyant, syncing Github and Rstudio and eventually pushing out the finished product was relatively hitch-free. The resulting webpage was also relatively easy to design and complete in modules; the voyant tools were imported first and then the write-ups were added in. 
 
-This process has left me with a much better understanding of git, and how these tools play into the discipline of the digital humanities. 
+This process has left us with a much better understanding of git, and how these tools play into the discipline of the digital humanities. 
 
 
 <iframe style='width: 850px; height: 705px;' src='https://voyant-tools.org/tool/Trends/?query=mr&query=mrs&query=said&query=miss&query=think&corpus=austen' data-external = '1'></iframe>
