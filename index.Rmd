@@ -33,6 +33,8 @@ We chose two pairs of words that were the most fundamental and basic concepts in
 
 <iframe style='width: 850px; height: 570px;' src='https://voyant-tools.org/tool/Trends/?stopList=stop.en.taporware.txt&query=virtu*%7Csin%7Csinner%7Csinned%7Csinful%7Csins&query=heaven*%7Chell*&mode=&chartType=line&view=mandala&corpus=4bc0d6025777440300b6fabbbcb483e0' data-external='1'></iframe>
 
+&nbsp;
+
 The positive results from this rudimentary analysis propelled us to dig deeper. We wanted to see where the frequency of these basic concepts of Christianity stood in relation to the basic terminology of Gothic literature. For this purpose, we picked the three most frequently occurring words that represented the Gothic imagination in our corpus: ‘terror’, ‘horror’, and ‘blood’.
 
 &nbsp;
