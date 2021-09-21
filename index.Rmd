@@ -5,15 +5,8 @@ date: "9/18/2021"
 output: html_notebook
 ---
 
-<<<<<<< HEAD
-```{r}
-plot(cars)
-```
 
 #### Team members 
-=======
-## Team members 
->>>>>>> 2d8dd7fa32b21c3eac2dbe8108bdcfe647b8c5aa
 
 Harieshwar Vetri, Medini Chopra, Navdeep Singh, Siddhant Bakshi
 
@@ -51,17 +44,20 @@ At this point we decided to perform a more granular analysis. We settled on the 
 The results surprised us yet again. We found that the relative frequencies of the two aforementioned clusters were not insignificant when compared to our cluster of the three most frequent Gothic terms. Thus, our hypothesis passed our test of granularity.
 
 The cumulation of these findings proved that Christian theology, indeed, was embedded in the English Gothic literature of the 18th and 19th century. Next, we wanted to find the context in which theology was employed, and its role in the conception of horror.
-<<<<<<< HEAD
 
 **Collocation/Correlation:**
+
+<iframe style='width: 850px; height: 570px;' src='https://voyant-tools.org/tool/CorpusCollocates/?stopList=stop.en.taporware.txt&query=punish*&corpus=4bc0d6025777440300b6fabbbcb483e0' data-external = '1'></iframe>
 
 As the frequency graphs alluded to a certain type of pattern, we decided to check if there were other tools which would confirm that it was indeed a pattern. We started with the correlation and collocation tools. The correlation tool compares the appearances of two terms and provides information on how these terms vary in appearance with each other. The collocation tool accepts a term from the user, and then displays the number of times another interesting word appears within a specified number of terms. We searched for words relating to horror, such as ‘evil’, ‘dark’ and ‘death’, as well as religious terms such as ‘god’, ‘holy’ and ‘life’.
 
 The correlation/collocation tools are a useful choice when trying to find patterns in the relations between pairs of words. However, our hypothesis was based more around the appearance and use of singular words. We did attempt to find interesting word pairs or connections, but the correlation pairs were either not intriguing enough, had a negligible correlation factor, or had an unfavorable significance factor: which is what determines if a high correlation is not just coincidental. The collocates tool, however, proved useful. Punishment is an important concept in Christianity. The Christian teachings dictate that deviating from the virtues, and committing sins, can invite the wrath of God. We decided to look for the collocates for ‘punish’, and found that ‘god’, ‘fear’, and ‘guilt’ appear most frequently. From this we reasoned that punishment, as represented in Gothic literature, could have its roots in theology. The divine punishment could, then, manifest in the form of supernatural events. A direct relationship between theology and the ideation of horror could be inferred from this finding. This argument, however, could not be substantiated using other tools.
 
-<iframe style='width: 850px; height: 570px;' src='https://voyant-tools.org/tool/CorpusCollocates/?stopList=stop.en.taporware.txt&query=punish*&corpus=4bc0d6025777440300b6fabbbcb483e0' data-external = '1'></iframe>
+
 
 **Mandala:**
+
+<iframe style='width: 1100px; height: 715px;' src='https://voyant-tools.org/tool/Mandala/?stopList=stop.en.taporware.txt&query=evil*%7Ccurse*%7Cspirit*%7Csublime%7Cinsane*%7Cmad*%7Ccrazy*%7Cdead*%7Cdecay*%7Cdivine*%7Cblood*%7Cdeath&query=possess*%7Chaunt*%7Cbury*%7Cmurder*%7Cdestroy*%7Cstrangle*%7Cterrify*%7Ctrembl*%7Cbefall&query=labyrinth*%7Ccorpse%7Cgrave*%7Ctomb%7Ccadaver%7Cmonster*%7Ccemetary%7Cdevil*%7Cnightmare%7Cghost*%7Cgrotesque*%7Ccastle*%7Cdemon*%7Cwitch*%7Csorcerer*%7Cveil*%7Cskeleton*%7Czombie&query=dark*%7Cmist*%7Cfog*%7Clightening%7Cthunder*%7Crain*%7Cterror&query=altar*%7Csacrific*%7Cbishop%7Cchrist*%7Cfaith*%7Choly*%7Cpray*%7Cpreist%7Csacred%7Csinner%7Csinful%7Csinned%7Cworship*%7Csin%7Ccross%7Cpious%7Cpiety&view=mandala&corpus=4bc0d6025777440300b6fabbbcb483e0' data-external = '1'></iframe>
 
 The Mandala tool was very alluring because it complemented the Frequency Comparison tool very well. The results of frequency analysis provided us with multiple avenues to explore. The presence of words related to Christian theology in the texts called for further exploration into how deep a role theology played in the realm of the Gothic. Having acquired quantitative data to substantiate the hypothesis, the team desired a visual representation of how much of a “pull” a word or a cluster of words had on all the novels, and how this compared to other words and clusters. The choice, thus, was made to explore the Mandala tool for further substantiation of the hypothesis. Mandala treats each term as a magnet, and the texts are then pulled towards each magnet depending on the term ’s relative frequency in the corpus. This gives us a visual representation of which text is related to which term(s). In addition, if a text is closer to a magnet, it implies the relative frequency of the term  is higher in the text, and vice-versa.
 
@@ -75,16 +71,12 @@ We endeavored to uncover Christian theology embedded in the Gothic literature of
 
 
 <iframe style='width: 850px; height: 705px;' src='https://voyant-tools.org/tool/Trends/?query=mr&query=mrs&query=said&query=miss&query=think&corpus=austen' data-external = '1'></iframe>
-=======
->>>>>>> 2d8dd7fa32b21c3eac2dbe8108bdcfe647b8c5aa
 
 # Correlation
 
 <iframe style='width: 637px; height: 465px;' src='https://voyant-tools.org/tool/Trends/?query=jesus*%20%7C%20christ*%20%7C%20heaven*%20&query=hell*%20%7C%20satan*&view=corpusterms&corpus=c8f49d5bfead7457a65341f1531c0a3f' data-external = '1'></iframe>
 
-# Mandala
 
-<iframe style='width: 1100px; height: 715px;' src='https://voyant-tools.org/tool/Mandala/?stopList=stop.en.taporware.txt&query=evil*%7Ccurse*%7Cspirit*%7Csublime%7Cinsane*%7Cmad*%7Ccrazy*%7Cdead*%7Cdecay*%7Cdivine*%7Cblood*%7Cdeath&query=possess*%7Chaunt*%7Cbury*%7Cmurder*%7Cdestroy*%7Cstrangle*%7Cterrify*%7Ctrembl*%7Cbefall&query=labyrinth*%7Ccorpse%7Cgrave*%7Ctomb%7Ccadaver%7Cmonster*%7Ccemetary%7Cdevil*%7Cnightmare%7Cghost*%7Cgrotesque*%7Ccastle*%7Cdemon*%7Cwitch*%7Csorcerer*%7Cveil*%7Cskeleton*%7Czombie&query=dark*%7Cmist*%7Cfog*%7Clightening%7Cthunder*%7Crain*%7Cterror&query=altar*%7Csacrific*%7Cbishop%7Cchrist*%7Cfaith*%7Choly*%7Cpray*%7Cpreist%7Csacred%7Csinner%7Csinful%7Csinned%7Cworship*%7Csin%7Ccross%7Cpious%7Cpiety&view=mandala&corpus=4bc0d6025777440300b6fabbbcb483e0' data-external = '1'></iframe>
 
 
 # Next 
