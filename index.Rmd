@@ -85,7 +85,8 @@ The technical side of the process; importing the tools from Voyant, syncing Gith
 
 This process has left us with a much better understanding of git, and how these tools play into the discipline of the digital humanities. 
 
-<br/><br/>
+&nbsp;
+
 
 <iframe style='width: 850px; height: 705px;' src='https://voyant-tools.org/tool/Trends/?query=mr&query=mrs&query=said&query=miss&query=think&corpus=austen' data-external = '1'></iframe>
 
