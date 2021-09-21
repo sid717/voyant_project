@@ -29,17 +29,27 @@ When analyzing the list of terms sorted in descending order of frequency, we obs
 
 We chose two pairs of words that were the most fundamental and basic concepts in Christianity: ‘virtue’ and ‘sin’, and ‘heaven’ and ‘hell’. Upon plotting the frequency graph, we found that these pairs were not only present in our entire corpus, but they also had a high frequency correlation throughout the 18th and early 19th century texts.
 
+&nbsp;
+
 <iframe style='width: 850px; height: 570px;' src='https://voyant-tools.org/tool/Trends/?stopList=stop.en.taporware.txt&query=virtu*%7Csin%7Csinner%7Csinned%7Csinful%7Csins&query=heaven*%7Chell*&mode=&chartType=line&view=mandala&corpus=4bc0d6025777440300b6fabbbcb483e0' data-external='1'></iframe>
 
 The positive results from this rudimentary analysis propelled us to dig deeper. We wanted to see where the frequency of these basic concepts of Christianity stood in relation to the basic terminology of Gothic literature. For this purpose, we picked the three most frequently occurring words that represented the Gothic imagination in our corpus: ‘terror’, ‘horror’, and ‘blood’.
 
+&nbsp;
+
 <iframe style='width: 850px; height: 570px;' src='https://voyant-tools.org/tool/Trends/?stopList=stop.en.taporware.txt&query=virtu*%7Csin%7Csinner%7Csinned%7Csinful%7Csins&query=heaven*%7Chell*&query=terror*%7Chorror*%7Cblood*&mode=&chartType=line&view=mandala&corpus=4bc0d6025777440300b6fabbbcb483e0' data-external='1'></iframe>
+
+&nbsp;
 
 The result was deeply satisfying. Although, at various points, the frequency of the terms of gore was an order of magnitude higher than terms of Christian theology, this was to be expected because these terms are nouns and adjectives, and are employed much more frequently to set the tone and atmosphere of the novels. However, the difference in relative frequency between the two categories was not pronounced enough to demerit our hypothesis.
 
 At this point we decided to perform a more granular analysis. We settled on the list of the seven deadly sins and seven virtues — core concepts in Christian theology. The sins encompass pride, greed, lust, wrath, envy, sloth, and gluttony. The virtues include chastity, temperance, charity, diligence, patience, kindness, and humility. The sins were combined into one cluster, and the virtues into another.
 
+&nbsp;
+
 <iframe style='width: 850px; height: 570px;' src='https://voyant-tools.org/tool/Trends/?stopList=stop.en.taporware.txt&query=pride*%7Cgreed*%7Clust*%7Csloth*%7Cglutton*%7Cwrath%7Cenvy%7Cenvied%7Cenvies%7Cenvious&query=chastity*%7Ctemperance*%7Ccharit*%7Cdiligen*%7Cpatience%7Ckind*%7Chumility&query=virtu*%7Csin%7Csinner%7Csinned%7Csinful%7Csins&query=heaven*%7Chell*&query=terror*%7Chorror*%7Cblood*&mode=&chartType=line&view=mandala&corpus=4bc0d6025777440300b6fabbbcb483e0' data-external='1'></iframe>
+
+&nbsp;
 
 The results surprised us yet again. We found that the relative frequencies of the two aforementioned clusters were not insignificant when compared to our cluster of the three most frequent Gothic terms. Thus, our hypothesis passed our test of granularity.
 
@@ -47,7 +57,11 @@ The cumulation of these findings proved that Christian theology, indeed, was emb
 
 ## Collocation/Correlation
 
+&nbsp;
+
 <iframe style='width: 850px; height: 570px;' src='https://voyant-tools.org/tool/CorpusCollocates/?stopList=stop.en.taporware.txt&query=punish*&corpus=4bc0d6025777440300b6fabbbcb483e0' data-external = '1'></iframe>
+
+&nbsp;
 
 As the frequency graphs alluded to a certain type of pattern, we decided to check if there were other tools which would confirm that it was indeed a pattern. We started with the correlation and collocation tools. The correlation tool compares the appearances of two terms and provides information on how these terms vary in appearance with each other. The collocation tool accepts a term from the user, and then displays the number of times another interesting word appears within a specified number of terms. We searched for words relating to horror, such as ‘evil’, ‘dark’ and ‘death’, as well as religious terms such as ‘god’, ‘holy’ and ‘life’.
 
@@ -61,10 +75,12 @@ The Mandala tool was very alluring because it complemented the Frequency Compari
 
 We began by carefully curating a list of keywords that are prominent in Gothic literature. Then we divided them into 5 different categories, each of which represents a certain aspect of the novel. The first magnet (first keyword: dark) represents the atmospheric elements of the novel. Second (first keyword: possess) represents supernatural or dark acts that happen in the novel. Third (first keyword: labyrinth) groups together the nouns that contribute to the setting and supernatural characters of the novel. Fourth (first keyword: evil) serves as the collection of adjectives for the dark elements present in the work. Fifth (first keyword: altar) consists of words that bear a relationship with religious concepts, especially Christianity.  
 
+&nbsp;
 
 
 <iframe style='width: 850px; height: 715px;' src='https://voyant-tools.org/tool/Mandala/?stopList=stop.en.taporware.txt&query=evil*%7Ccurse*%7Cspirit*%7Csublime%7Cinsane*%7Cmad*%7Ccrazy*%7Cdead*%7Cdecay*%7Cdivine*%7Cblood*%7Cdeath&query=possess*%7Chaunt*%7Cbury*%7Cmurder*%7Cdestroy*%7Cstrangle*%7Cterrify*%7Ctrembl*%7Cbefall&query=labyrinth*%7Ccorpse%7Cgrave*%7Ctomb%7Ccadaver%7Cmonster*%7Ccemetary%7Cdevil*%7Cnightmare%7Cghost*%7Cgrotesque*%7Ccastle*%7Cdemon*%7Cwitch*%7Csorcerer*%7Cveil*%7Cskeleton*%7Czombie&query=dark*%7Cmist*%7Cfog*%7Clightening%7Cthunder*%7Crain*%7Cterror&query=altar*%7Csacrific*%7Cbishop%7Cchrist*%7Cfaith*%7Choly*%7Cpray*%7Cpreist%7Csacred%7Csinner%7Csinful%7Csinned%7Cworship*%7Csin%7Ccross%7Cpious%7Cpiety&view=mandala&corpus=4bc0d6025777440300b6fabbbcb483e0' data-external = '1'></iframe>
 
+&nbsp;
 
 
 In the Mandala thus created, we observe that the fourth magnet has the strongest pull. This was expected because it represents adjectives that are common to the entire corpus. Interestingly, we also see that the second and fifth magnet seem to have an equal pull. This directly supports our hypothesis by showing that the collection of verbs of the supernatural domain are present in the texts as much as terms related to theology. Furthermore, the texts that are in closest proximity to the fifth magnet are spread throughout the 18th and 19th century, indicating that no significant change occurred over the time period in how often theological concepts were incorporated into Gothic novels.  
