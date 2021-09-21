@@ -81,9 +81,7 @@ Unfortunately, the correlation/collocation tools were not particularly helpful f
 
 While our research has yielded quite a bit of evidence to support our hypothesis, we also understand that this is not particularly strong evidence. Our corpus might span two centuries, but there are not enough books in it to make a wide claim. A much bigger corpus is required to pursue this further and to provide more satisfactory and compelling results. There is also the problem of the tools used. Our work relied heavily on the frequency charts and the mandalas, both of which can be confounded by the addition of a single word and causing false information to show up and skew results. Moreover, frequency analysis tools are ill-equipped to generate evidence for highly qualitative claims.
 
-### Siddhant
-
-The technical side of the process; importing the tools from voyant, syncing Github and Rstudio and eventually pushing out the finished product was relatively hitch-free. The resulting webpage was also relatively easy to design and complete in modules; the voyant tools were imported first and then the write-ups were added in. 
+The technical side of the process; importing the tools from Voyant, syncing Github and Rstudio and eventually pushing out the finished product was relatively hitch-free. The resulting webpage was also relatively easy to design and complete in modules; the voyant tools were imported first and then the write-ups were added in. 
 
 This process has left me with a much better understanding of git, and how these tools play into the discipline of the digital humanities. 
 
