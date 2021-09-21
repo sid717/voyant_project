@@ -45,7 +45,7 @@ The results surprised us yet again. We found that the relative frequencies of th
 
 The cumulation of these findings proved that Christian theology, indeed, was embedded in the English Gothic literature of the 18th and 19th century. Next, we wanted to find the context in which theology was employed, and its role in the conception of horror.
 
-**Collocation/Correlation:**
+## Collocation/Correlation
 
 <iframe style='width: 850px; height: 570px;' src='https://voyant-tools.org/tool/CorpusCollocates/?stopList=stop.en.taporware.txt&query=punish*&corpus=4bc0d6025777440300b6fabbbcb483e0' data-external = '1'></iframe>
 
@@ -55,7 +55,7 @@ The correlation/collocation tools are a useful choice when trying to find patter
 
 
 
-**Mandala:**
+## Mandala
 
 <iframe style='width: 1100px; height: 715px;' src='https://voyant-tools.org/tool/Mandala/?stopList=stop.en.taporware.txt&query=evil*%7Ccurse*%7Cspirit*%7Csublime%7Cinsane*%7Cmad*%7Ccrazy*%7Cdead*%7Cdecay*%7Cdivine*%7Cblood*%7Cdeath&query=possess*%7Chaunt*%7Cbury*%7Cmurder*%7Cdestroy*%7Cstrangle*%7Cterrify*%7Ctrembl*%7Cbefall&query=labyrinth*%7Ccorpse%7Cgrave*%7Ctomb%7Ccadaver%7Cmonster*%7Ccemetary%7Cdevil*%7Cnightmare%7Cghost*%7Cgrotesque*%7Ccastle*%7Cdemon*%7Cwitch*%7Csorcerer*%7Cveil*%7Cskeleton*%7Czombie&query=dark*%7Cmist*%7Cfog*%7Clightening%7Cthunder*%7Crain*%7Cterror&query=altar*%7Csacrific*%7Cbishop%7Cchrist*%7Cfaith*%7Choly*%7Cpray*%7Cpreist%7Csacred%7Csinner%7Csinful%7Csinned%7Cworship*%7Csin%7Ccross%7Cpious%7Cpiety&view=mandala&corpus=4bc0d6025777440300b6fabbbcb483e0' data-external = '1'></iframe>
 
@@ -65,7 +65,7 @@ We began by carefully curating a list of keywords that are prominent in Gothic l
 
 In the Mandala thus created, we observe that the fourth magnet has the strongest pull. This was expected because it represents adjectives that are common to the entire corpus. Interestingly, we also see that the second and fifth magnet seem to have an equal pull. This directly supports our hypothesis by showing that the collection of verbs of the supernatural domain are present in the texts as much as terms related to theology. Furthermore, the texts that are in closest proximity to the fifth magnet are spread throughout the 18th and 19th century, indicating that no significant change occurred over the time period in how often theological concepts were incorporated into Gothic novels.
 
-**Conclusion:**
+## Conclusion
 
 We endeavored to uncover Christian theology embedded in the Gothic literature of the 18th and 19th century, and determine its role in the ideation of gothic horror. Our frequency analysis provided clear evidence that the terminology of Christian theology was present throughout the corpus. We were pleasantly surprised to find that there was more evidence than we had anticipated at the outset. However, the limitations of the collocation/correlation tool with respect to our hypothesis deprived us of some much desired sentence- and paragraph-level evidence. Nonetheless, we used output from our frequency analysis to create well-defined clusters of words that we fed to the Mandala tool. Through this tool, we were able to visually represent the evidence in support of our hypothesis. Through the combination of the 3 tools, we have been able to demonstrate the presence of theological elements of Christianity in the corpus, and the importance of Christian theology in the ideation of horror that permeates the English Gothic literature.
 
