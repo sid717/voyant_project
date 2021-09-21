@@ -69,30 +69,26 @@ In the Mandala thus created, we observe that the fourth magnet has the strongest
 
 We endeavored to uncover Christian theology embedded in the Gothic literature of the 18th and 19th century, and determine its role in the ideation of gothic horror. Our frequency analysis provided clear evidence that the terminology of Christian theology was present throughout the corpus. We were pleasantly surprised to find that there was more evidence than we had anticipated at the outset. However, the limitations of the collocation/correlation tool with respect to our hypothesis deprived us of some much desired sentence- and paragraph-level evidence. Nonetheless, we used output from our frequency analysis to create well-defined clusters of words that we fed to the Mandala tool. Through this tool, we were able to visually represent the evidence in support of our hypothesis. Through the combination of the 3 tools, we have been able to demonstrate the presence of theological elements of Christianity in the corpus, and the importance of Christian theology in the ideation of horror that permeates the English Gothic literature.
 
+## Reflections
+
+Voyant as a data-analysis program is a double edged sword. The tools are not the most useful when it comes to looking through data to find something to study. They provide mountains of raw data ready to be analysed and interpreted, but unless the user knows what to look for they may just confuse themselves even more. However, once a clear objective has been formulated the tools’ ability to break down hundreds of millions of words into simple statistics becomes a huge asset.
+
+Unfortunately, the correlation/collocation tools were not particularly helpful for the testing of the hypothesis. As mentioned earlier, we were mostly interested in the appearance of singular terms and not necessarily how those words were related to each other or whether they were near each other or not. However, the discovery of the relationship between the word ‘punish’ and the religious words did signal to us that we were on the right track.
+
+While our research has yielded quite a bit of evidence to support our hypothesis, we also understand that this is not particularly strong evidence. Our corpus might span two centuries, but there are not enough books in it to make a wide claim. A much bigger corpus is required to pursue this further and to provide more satisfactory and compelling results. There is also the problem of the tools used. Our work relied heavily on the frequency charts and the mandalas, both of which can be confounded by the addition of a single word and causing false information to show up and skew results. Moreover, frequency analysis tools are ill-equipped to generate evidence for highly qualitative claims.
+
+### Siddhant
+
+The technical side of the process; importing the tools from voyant, syncing Github and Rstudio and eventually pushing out the finished product was relatively hitch-free. The resulting webpage was also relatively easy to design and complete in modules; the voyant tools were imported first and then the write-ups were added in. 
+
+This process has left me with a much better understanding of git, and how these tools play into the discipline of the digital humanities. 
+
 
 <iframe style='width: 850px; height: 705px;' src='https://voyant-tools.org/tool/Trends/?query=mr&query=mrs&query=said&query=miss&query=think&corpus=austen' data-external = '1'></iframe>
 
 # Correlation
 
 <iframe style='width: 637px; height: 465px;' src='https://voyant-tools.org/tool/Trends/?query=jesus*%20%7C%20christ*%20%7C%20heaven*%20&query=hell*%20%7C%20satan*&view=corpusterms&corpus=c8f49d5bfead7457a65341f1531c0a3f' data-external = '1'></iframe>
-
-
-
-
-# Next 
-
-<iframe style='width: 637px; height: 466px;' src='https://voyant-tools.org/tool/Trends/?query=death%20%7C%20blood%20%7C%20ghost%20%7C%20grave%20%7C%20cemetary*%20%7C%20insane%20%7C%20murder&query=devil*%20%7C%20satan*%20%7C%20unholy*%20%7C%20blasphem*%20%7C%20heathen%20%7C%20agnostic%20%7C%20atheis*%20%7C%20sin%20%7C%20obscene&query=christ*%20%7C%20jesus%20%7C%20pious*%20%7C%20apostle%20%7C%20religious%20%7C%20scriptural%20%7C%20divine%20%7C%20holy%20spirit%20%7C%20god%20%7C%20priest&corpus=eecadc231d71144cd0764cd0ce678d7a' data-external = '1'></iframe>
-
-# Next 2 
-
-<iframe style='width: 637px; height: 466px;' src='https://voyant-tools.org/tool/Trends/?query=devil*%20%7C%20satan*%20%7C%20unholy*%20%7C%20blasphem*%20%7C%20heathen%20%7C%20agnostic%20%7C%20atheis*%20%7C%20sin%20%7C%20obscene&query=christ*%20%7C%20jesus%20%7C%20pious*%20%7C%20apostle%20%7C%20religious%20%7C%20scriptural%20%7C%20divine%20%7C%20holy%20spirit%20%7C%20god%20%7C%20priest&corpus=eecadc231d71144cd0764cd0ce678d7a' data-external = '1'></iframe>
-
-# Next 3 
-
-<iframe style='width: 637px; height: 466px;' src='https://voyant-tools.org/tool/Trends/?query=sin%20%7C%20sinister&query=virtu*&corpus=eecadc231d71144cd0764cd0ce678d7a' data-external = '1'></iframe>
-
-# Next 4 
-<iframe style='width: 637px; height: 466px;' src='https://voyant-tools.org/tool/Trends/?query=sloth%20%7C%20greed%20%7C%20envy*%20%7C%20lust%20%7C%20wrath%20%7C%20gluttony%20%7C%20pride&query=diligence*%20%7C%20patience%20%7C%20humility%20%7C%20charity%20%7C%20temperance%20%7C%20kind*%20%7C%20chastity&corpus=eecadc231d71144cd0764cd0ce678d7a' data-external='1'></iframe>
 
 
 ![Ashoka University logo](https://www.ashoka.edu.in/admin_assets/global/images/logo/logo-ashoka.png)
