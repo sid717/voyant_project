@@ -89,7 +89,7 @@ We began by carefully curating a list of keywords that are prominent in Gothic l
 &nbsp;
 
 
-In the Mandala thus created, we observe that the fourth magnet has the strongest pull. This was expected because it represents adjectives that are common to the entire corpus. Interestingly, we also see that the second and fifth magnet seem to have an equal pull. This directly supports our hypothesis by showing that the collection of verbs of the supernatural domain are present in the texts as much as terms related to theology. Furthermore, the texts that are in closest proximity to the fifth magnet are spread throughout the 18th and 19th century, indicating that no significant change occurred over the time period in how often theological concepts were incorporated into Gothic novels.  
+In the Mandala thus created, we observe that the <span style="color: blue;">fourth</span> magnet has the strongest pull. This was expected because it represents adjectives that are common to the entire corpus. Interestingly, we also see that the <span style="color: pink;">second</span> and <span style="color: cyan;">fifth</span> magnet seem to have an equal pull. This directly supports our hypothesis by showing that the collection of verbs of the supernatural domain are present in the texts as much as terms related to theology. Furthermore, the texts that are in closest proximity to the <span style="color: cyan;">fifth</span> magnet are spread throughout the 18th and 19th century, indicating that no significant change occurred over the time period in how often theological concepts were incorporated into Gothic novels.  
 
 ## Conclusion
 
