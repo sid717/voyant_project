@@ -24,7 +24,7 @@ We chose Gothic literature as it was a genre we were not well acquainted with. W
 
 ## Tools 
 
-### Frequency comparison:
+### Frequency comparison
 
 When analyzing the list of terms sorted in descending order of frequency, we observed that the words ‘convent’, ‘heaven’, and ‘soul’ appeared within the first 200 terms. This provided us with the initial thrust in our research, as these words confirmed that Christian theology was indeed at play in Gothic literature. We then set out to examine the frequency and usage of terms and phrases pertaining to religion, particularly Christianity.
 
